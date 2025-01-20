@@ -1,0 +1,35 @@
+.all-menu{
+  /* background-color: rgb(220, 142, 142); */
+  width: inherit;
+  height: max-content;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  z-index: 100;
+  column-gap: 4px;
+  border-top: 2px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.all-menu > div{
+  flex: 20%;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  row-gap: 1rem;
+  font-size: 0.65rem;
+}
+.all-menu > div > div{
+/* background-color: antiquewhite; */
+display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+row-gap: 0.3rem;
+}
+.all-menu > div > div > h4{
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: black;
+}

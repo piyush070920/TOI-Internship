@@ -1,0 +1,12 @@
+.header-top * {
+  font-size: var(--smallFont);
+  text-wrap: nowrap;
+  /* line-height: 100%; */
+}
+.header-top {
+  padding: 3px 3px;
+}
+.header-top > .header-top-left > div {
+  border-right: 1px solid var(--borderColor);
+  padding: 0px 4px;
+}

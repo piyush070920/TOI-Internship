@@ -1,0 +1,12 @@
+{
+  "user1": {
+    "isUserLogIn": true,
+    "userSerialId": "123456789aaaaaa",
+    "ssoId": 12122121
+  },
+  "user2": {
+    "isUserLogIn": false,
+    "userSerialId": "123456789bbbbbb",
+    "ssoId": 45454545
+  }
+}

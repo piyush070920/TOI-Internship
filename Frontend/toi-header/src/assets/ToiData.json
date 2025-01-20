@@ -1,0 +1,2883 @@
+{
+  "header": {
+    "allMenu": {
+      "sections": [
+        [
+          {
+            "link": "https://timesofindia.indiatimes.com/",
+            "label": "News Home",
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/city",
+                "label": "City"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/live-breaking-news",
+                "label": "Liveblogs"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/india",
+                "label": "India"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/elections",
+                "label": "Elections 2024"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/politics",
+                "label": "Politics"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/world",
+                "label": "World"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/crstories.cms",
+                "label": "Citizen Reporter"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/nrihome.cms",
+                "label": "NRI"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/home/headlines",
+                "label": "Headlines"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/podcasts",
+                "label": "Podcasts"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/home/sundaytimes/articlelist/1945062111.cms",
+                "label": "Sunday Times"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/good-news/goodnews.cms",
+                "label": "Good News"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/toifeatures/50464604.cms",
+                "label": "TOI Features"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/specials",
+                "label": "Specials"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/times-fact-check",
+                "label": "Times Fact Check"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/goodgovernance/47082088.cms",
+                "label": "Good Governance"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/india/the-times-of-a-better-india",
+                "label": "Times of a Better India"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/south-pole-by-chennai-times",
+                "label": "South Pole - Chennai Times"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/blogs/toi-editorials/",
+                "label": "TOI Editorials"
+              },
+              {
+                "link": "https://economictimes.indiatimes.com/blogs/et-editorials/",
+                "label": "ET Editorials"
+              }
+            ],
+            "label": "Editorials"
+          }
+        ],
+        [
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/entertainment/movie-reviews",
+                "label": "Movie Reviews"
+              },
+              {
+                "link": "https://photogallery.indiatimes.com/",
+                "label": "Photos (ETIMES)"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/entertainment/music/articlelistls/27976150.cms",
+                "label": "Music"
+              },
+              {
+                "link": "https://beautypageants.indiatimes.com/",
+                "label": "Beauty Pageants"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/entertainment/events",
+                "label": "Events"
+              },
+              {
+                "link": "https://www.filmfare.com",
+                "label": "Filmfare"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/entertainment",
+            "label": "Entertainment"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/tv/news/hindi",
+                "label": "TV News"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/tv/tvlistings.cms",
+                "label": "TV Listings"
+              },
+              {
+                "link": "https://www.zoomtv.com/",
+                "label": "Zoom TV"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/tv/hindi/tvhome/17781976.cms",
+            "label": "TV"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/business/startups",
+                "label": "Startups"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/business/international-business",
+                "label": "International Business"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/business/financial-literacy",
+                "label": "Financial Literacy",
+                "brandclass": "financialliteracyday"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/business",
+            "label": "Business"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/speaking-tree/atheism",
+                "label": "Atheism"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy",
+                "label": "Daily Ecstasy"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/speaking-tree/vastu-and-feng-shui",
+                "label": "Vastu and Feng Shui"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/speaking-tree/yoga-meditation",
+                "label": "Yoga & Meditation"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/speaking-tree/the-joy-of-death",
+                "label": "The Joy of Death"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/speaking-tree/quotes",
+                "label": "Quotes"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/speaking-tree",
+            "label": "Speaking Tree"
+          }
+        ],
+        [
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/life-style/health-fitness",
+                "label": "Health+"
+              },
+              {
+                "link": "https://www.femina.in",
+                "label": "Femina"
+              },
+              {
+                "link": "https://www.idiva.com/",
+                "label": "Women"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/travel/?utm_source=NavWidget&utm_medium=referral&utm_campaign=TOILinkbacks",
+                "label": "Travel"
+              },
+              {
+                "link": "https://recipes.timesofindia.com/?utm_source=NavWidget&utm_medium=referral&utm_campaign=TOILinkbacks",
+                "label": "Recipes"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/life-style/articlelistls/2886704.cms",
+            "label": "Lifestyle"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/sports/cricket",
+                "label": "Cricket"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl",
+                "label": "IPL 2025"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/sports/football",
+                "label": "Football"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/toisa",
+                "newItem": true,
+                "label": "TOISA"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/sports",
+            "label": "Sports"
+          },
+          {
+            "items": [
+              {
+                "link": "https://www.bennett.edu.in",
+                "label": "Bennett University"
+              },
+              {
+                "link": "https://toistudent.timesofindia.indiatimes.com",
+                "label": "TOI Student"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/education/times-study-abroad",
+                "label": "Times Study Abroad"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/education/jobs",
+                "label": "Jobs"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/education",
+            "label": "Education"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/religion/rituals-puja",
+                "label": "Rituals & Puja"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/religion/festivals",
+                "label": "Festivals"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/religion/mantras-chants",
+                "label": "Mantras & Chants"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/religion",
+            "label": "Religion"
+          },
+          {
+            "link": "https://timesofindia.indiatimes.com/real-estate",
+            "label": "Real Estate",
+            "brandclass": "brandlogo",
+            "brandimgid": "108640923",
+            "brandlink": "https://housing.com/",
+            "brandlabel": "Housing"
+          }
+        ],
+        [
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/infographics.cms",
+                "label": "Infographics"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/humour/newslisting/50680967.cms",
+                "label": "Humour"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/cartoons.cms",
+                "label": "Cartoons"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/blogs/?utm_source=TOInewHP_TILwidget&utm_medium=NavLi&utm_campaign=TOInewHP",
+                "label": "Blogs"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/blogs/?utm_source=TOInewHP_TILwidget&utm_medium=NavLi&utm_campaign=TOInewHP",
+            "label": "Opinion"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/viral-news",
+                "label": "Viral News"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/trending-news",
+                "label": "Trending News"
+              }
+            ],
+            "label": "Social"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/astrology/horoscope",
+                "label": "Horoscope"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/astrology/planets-transits",
+                "label": "Planets & Transits"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/astrology",
+            "label": "Astrology"
+          }
+        ],
+        [
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs",
+                "label": "Mobile & Tabs"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/technology/laptops-pc",
+                "label": "Laptops & PC"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/technology/appliances",
+                "label": "Appliances"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/technology/tech-tips",
+                "label": "Tech Tips"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/technology/tech-news",
+                "label": "Tech News"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/technology/gaming",
+                "label": "Gaming"
+              }
+            ],
+            "link": "https://timesofindia.indiatimes.com/technology",
+            "label": "Technology"
+          },
+          {
+            "items": [
+              {
+                "link": "https://www.mediawire.in/blog.html?utm_source=toiweb&utm_medium=referral&utm_campaign=toiweb_hptopnav",
+                "label": "Mediawire"
+              },
+              {
+                "link": "https://epaper.indiatimes.com/timesepaper/publication-the-times-of-india,city-delhi.cms?utm_source=TOI&utm_medium=L1DropDown&utm_campaign=TOIePaper_Promotions",
+                "label": "Epaper"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/newspaper-subscription",
+                "label": "Newspaper Subscription"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/classifieds/764057.cms",
+                "label": "Classifieds"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/archive.cms",
+                "label": "Archives"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/beswatantra.cms",
+                "label": "Be Swatantra"
+              }
+            ],
+            "label": "Services"
+          },
+          {
+            "items": [
+              {
+                "link": "https://timesofindia.indiatimes.com/auto/news",
+                "label": "News"
+              },
+              {
+                "link": " https://timesofindia.indiatimes.com/auto/reviews",
+                "label": "Reviews"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/auto/advice-centre",
+                "label": "Advice centre"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/auto/commercial-vehicles",
+                "label": "Commercial vehicles"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/auto/motorsports/",
+                "label": "Motorsports"
+              },
+              {
+                "link": " https://timesofindia.indiatimes.com/videos/auto",
+                "label": "Videos"
+              },
+              {
+                "link": "https://timesofindia.indiatimes.com/auto/web-stories",
+                "label": "Visual Stories"
+              }
+            ],
+            "label": "Auto",
+            "link": "https://timesofindia.indiatimes.com/auto"
+          }
+        ]
+      ]
+    },
+    "navigation": {
+      "home": {
+        "label": "Home",
+        "link": "https://timesofindia.indiatimes.com",
+        "styles": ["toi-logo"]
+      },
+      "breadcrumbs": [
+        {
+          "label": "News",
+          "link": "/"
+        }
+      ],
+      "rightNav": [
+        {
+          "label": "TOI+",
+          "link": "/toi-plus",
+          "css": "toiplus"
+        }
+      ],
+      "l1": [
+        {
+          "label": "TOI Games",
+          "link": "https://toidev.indiatimes.com/games",
+          "styles": ["newbadge"],
+          "theme": "col"
+        },
+        {
+          "label": "Videos",
+          "link": "https://toidev.indiatimes.com/videos",
+          "subMenu": [
+            {
+              "label": "Top",
+              "link": "https://toidev.indiatimes.com/videos/top-videos",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-4762524.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Trending",
+              "link": "https://toidev.indiatimes.com/videos/trending-videos",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list/feedtype-sjson,tag-mostviewedvdo,perpage-8.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Entertainment",
+              "link": "https://toidev.indiatimes.com/videos/entertainment",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-3812908.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "TOI originals",
+              "link": "https://toidev.indiatimes.com/videos/toi-originals",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-68200753.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "India",
+              "link": "https://toidev.indiatimes.com/videos/news",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-3812907.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Viral",
+              "link": "https://toidev.indiatimes.com/videos/viral-videos",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-89745334.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "TOI in-Depth",
+              "link": "https://toidev.indiatimes.com/videos/toi-in-depth",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-72276370.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Times Property",
+              "link": "https://toidev.indiatimes.com/videos/times-property",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-69646521.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "city",
+              "link": "https://toidev.indiatimes.com/videos/city",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-59192346.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Internal",
+              "link": "https://toidev.indiatimes.com/videos/international",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-68200730.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Business",
+              "link": "https://toidev.indiatimes.com/videos/business",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-3813458.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Health",
+              "link": "https://toidev.indiatimes.com/videos/lifestyle/health-tips-videos",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list/msid-2950623,feedtype-sjson,tag-videolistroot,perpage-8.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "TV",
+              "link": "https://toidev.indiatimes.com/videos/tv",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-49150189.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Lifestyle",
+              "link": "https://toidev.indiatimes.com/videos/lifestyle",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-3813443.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Beauty Pageants",
+              "link": "https://toidev.indiatimes.com/videos/beauty-pageants",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-49802315.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Filmfare",
+              "link": "https://toidev.indiatimes.com/videos/filmfare",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-59191419.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Food",
+              "link": "https://recipes.timesofindia.com/videos/videolist/52254947.cms",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-2950623.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Tech",
+              "link": "https://toidev.indiatimes.com/videos/tech",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-3813449.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Auto",
+              "link": "https://toidev.indiatimes.com/videos/auto",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-3813454.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Music",
+              "link": "https://toidev.indiatimes.com/videos/entertainment/music",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-62510168.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Filmfare",
+              "link": "https://toidev.indiatimes.com/videos/motion-graphics",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-54865831.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Events",
+              "link": "https://toidev.indiatimes.com/videos/entertainment/events/mumbai",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-64505989.cms",
+              "type": "video",
+              "theme": "col"
+            },
+            {
+              "label": "Regional",
+              "link": "https://navbharattimes.indiatimes.com/video/videolist/4901865.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list/msid-4901865,feedtype-sjson,tag-hvideolistroot,perpage-8.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Top Tennis Videos",
+              "link": "https://toidev.indiatimes.com/videos/sports/top-tennis-videos  ",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-100501144.cms",
+              "type": "video",
+              "theme": "col"
+            }
+          ],
+          "theme": "video"
+        },
+        {
+          "label": "City",
+          "link": "https://toidev.indiatimes.com/city",
+          "subMenuList": {
+            "type": "multiList",
+            "data": [
+              {
+                "label": "Metro Cities",
+                "data": [
+                  {
+                    "label": "mumbai",
+                    "link": "https://timesofindia.indiatimes.com/city/mumbai"
+                  },
+                  {
+                    "label": "delhi",
+                    "link": "https://timesofindia.indiatimes.com/city/delhi"
+                  },
+                  {
+                    "label": "bengaluru",
+                    "link": "https://timesofindia.indiatimes.com/city/bangalore"
+                  },
+                  {
+                    "label": "Hyderabad",
+                    "link": "https://timesofindia.indiatimes.com/city/hyderabad"
+                  },
+                  {
+                    "label": "kolkata",
+                    "link": "https://timesofindia.indiatimes.com/city/kolkata"
+                  },
+                  {
+                    "label": "chennai",
+                    "link": "https://timesofindia.indiatimes.com/city/chennai"
+                  }
+                ]
+              },
+              {
+                "label": "Other Cities",
+                "data": [
+                  {
+                    "label": "City",
+                    "link": "https://timesofindia.indiatimes.com/city"
+                  },
+                  {
+                    "label": "agra",
+                    "link": "https://timesofindia.indiatimes.com/city/agra"
+                  },
+                  {
+                    "label": "agartala",
+                    "link": "https://timesofindia.indiatimes.com/city/agartala"
+                  },
+                  {
+                    "label": "ahmedabad",
+                    "link": "https://timesofindia.indiatimes.com/city/ahmedabad"
+                  },
+                  {
+                    "label": "ajmer",
+                    "link": "https://timesofindia.indiatimes.com/city/ajmer"
+                  },
+                  {
+                    "label": "amaravati",
+                    "link": "https://timesofindia.indiatimes.com/city/amaravati"
+                  },
+                  {
+                    "label": "amritsar",
+                    "link": "https://timesofindia.indiatimes.com/city/amritsar"
+                  },
+                  {
+                    "label": "bareilly",
+                    "link": "https://timesofindia.indiatimes.com/city/bareilly"
+                  },
+                  {
+                    "label": "bhubaneswar",
+                    "link": "https://timesofindia.indiatimes.com/city/bhubaneswar"
+                  },
+                  {
+                    "label": "bhopal",
+                    "link": "https://timesofindia.indiatimes.com/city/bhopal"
+                  },
+                  {
+                    "label": "chandigarh",
+                    "link": "https://timesofindia.indiatimes.com/city/chandigarh"
+                  },
+                  {
+                    "label": "chhatrapati sambhajinagar",
+                    "link": "https://timesofindia.indiatimes.com/city/aurangabad"
+                  },
+                  {
+                    "label": "coimbatore",
+                    "link": "https://timesofindia.indiatimes.com/city/coimbatore"
+                  },
+                  {
+                    "label": "cuttack",
+                    "link": "https://timesofindia.indiatimes.com/city/cuttack"
+                  },
+                  {
+                    "label": "dehradun",
+                    "link": "https://timesofindia.indiatimes.com/city/dehradun"
+                  },
+                  {},
+                  {
+                    "label": "erode",
+                    "link": "https://timesofindia.indiatimes.com/city/erode"
+                  },
+                  {
+                    "label": "faridabad",
+                    "link": "https://timesofindia.indiatimes.com/city/faridabad"
+                  },
+                  {
+                    "label": "ghaziabad",
+                    "link": "https://timesofindia.indiatimes.com/city/ghaziabad"
+                  },
+                  {
+                    "label": "goa",
+                    "link": "https://timesofindia.indiatimes.com/city/goa"
+                  },
+                  {
+                    "label": "gurgaon",
+                    "link": "https://timesofindia.indiatimes.com/city/gurgaon"
+                  },
+                  {
+                    "label": "guwahati",
+                    "link": "https://timesofindia.indiatimes.com/city/guwahati"
+                  },
+                  {
+                    "label": "hubballi",
+                    "link": "https://timesofindia.indiatimes.com/city/hubli"
+                  },
+                  {
+                    "label": "imphal",
+                    "link": "https://timesofindia.indiatimes.com/city/imphal"
+                  },
+                  {
+                    "label": "indore",
+                    "link": "https://timesofindia.indiatimes.com/city/indore"
+                  },
+                  {
+                    "label": "itanagar",
+                    "link": "https://timesofindia.indiatimes.com/city/itanagar"
+                  },
+                  {
+                    "label": "jaipur",
+                    "link": "https://timesofindia.indiatimes.com/city/jaipur"
+                  },
+                  {
+                    "label": "jammu",
+                    "link": "https://timesofindia.indiatimes.com/city/jammu"
+                  },
+                  {
+                    "label": "jamshedpur",
+                    "link": "https://timesofindia.indiatimes.com/city/jamshedpur"
+                  },
+                  {
+                    "label": "jodhpur",
+                    "link": "https://timesofindia.indiatimes.com/city/jodhpur"
+                  },
+                  {
+                    "label": "kanpur",
+                    "link": "https://timesofindia.indiatimes.com/city/kanpur"
+                  },
+                  {
+                    "label": "kochi",
+                    "link": "https://timesofindia.indiatimes.com/city/kochi"
+                  },
+                  {
+                    "label": "kohima",
+                    "link": "https://timesofindia.indiatimes.com/city/kohima"
+                  },
+                  {
+                    "label": "kolhapur",
+                    "link": "https://timesofindia.indiatimes.com/city/kolhapur"
+                  },
+                  {
+                    "label": "kozhikode",
+                    "link": "https://timesofindia.indiatimes.com/city/kozhikode"
+                  },
+                  {
+                    "label": "ludhiana",
+                    "link": "https://timesofindia.indiatimes.com/city/ludhiana"
+                  },
+                  {
+                    "label": "lucknow",
+                    "link": "https://timesofindia.indiatimes.com/city/lucknow"
+                  },
+                  {
+                    "label": "madurai",
+                    "link": "https://timesofindia.indiatimes.com/city/madurai"
+                  },
+                  {
+                    "label": "mangaluru",
+                    "link": "https://timesofindia.indiatimes.com/city/mangalore"
+                  },
+                  {
+                    "label": "meerut",
+                    "link": "https://timesofindia.indiatimes.com/city/meerut"
+                  },
+                  {
+                    "label": "mumbai region",
+                    "link": "https://timesofindia.indiatimes.com/city/mumbai"
+                  },
+                  {
+                    "label": "mysuru",
+                    "link": "https://timesofindia.indiatimes.com/city/mysore"
+                  },
+                  {
+                    "label": "nagpur",
+                    "link": "https://timesofindia.indiatimes.com/city/nagpur"
+                  },
+                  {
+                    "label": "nashik",
+                    "link": "https://timesofindia.indiatimes.com/city/nashik"
+                  },
+                  {
+                    "label": "navi mumbai",
+                    "link": "https://timesofindia.indiatimes.com/city/navi-mumbai"
+                  },
+                  {
+                    "label": "noida",
+                    "link": "https://timesofindia.indiatimes.com/city/noida"
+                  },
+                  {
+                    "label": "patna",
+                    "link": "https://timesofindia.indiatimes.com/city/patna"
+                  },
+                  {
+                    "label": "prayagraj",
+                    "link": "https://timesofindia.indiatimes.com/city/allahabad"
+                  },
+                  {
+                    "label": "puducherry",
+                    "link": "https://timesofindia.indiatimes.com/city/puducherry"
+                  },
+                  {
+                    "label": "pune",
+                    "link": "https://timesofindia.indiatimes.com/city/pune"
+                  },
+                  {
+                    "label": "raipur",
+                    "link": "https://timesofindia.indiatimes.com/city/raipur"
+                  },
+                  {
+                    "label": "rajkot",
+                    "link": "https://timesofindia.indiatimes.com/city/rajkot"
+                  },
+                  {
+                    "label": "ranchi",
+                    "link": "https://timesofindia.indiatimes.com/city/ranchi"
+                  },
+                  {
+                    "label": "thane",
+                    "link": "https://timesofindia.indiatimes.com/city/thane"
+                  },
+                  {
+                    "label": "salem",
+                    "link": "https://timesofindia.indiatimes.com/city/salem"
+                  },
+                  {
+                    "label": "shillong",
+                    "link": "https://timesofindia.indiatimes.com/city/shillong"
+                  },
+                  {
+                    "label": "shimla",
+                    "link": "https://timesofindia.indiatimes.com/city/shimla"
+                  },
+                  {
+                    "label": "srinagar",
+                    "link": "https://timesofindia.indiatimes.com/city/srinagar"
+                  },
+                  {
+                    "label": "surat",
+                    "link": "https://timesofindia.indiatimes.com/city/surat"
+                  },
+                  {
+                    "label": "trichy",
+                    "link": "https://timesofindia.indiatimes.com/city/trichy"
+                  },
+                  {
+                    "label": "thiruvananthapuram",
+                    "link": "https://timesofindia.indiatimes.com/city/thiruvananthapuram"
+                  },
+                  {
+                    "label": "udaipur",
+                    "link": "https://timesofindia.indiatimes.com/city/udaipur"
+                  },
+                  {
+                    "label": "vadodara",
+                    "link": "https://timesofindia.indiatimes.com/city/vadodara"
+                  },
+                  {
+                    "label": "varanasi",
+                    "link": "https://timesofindia.indiatimes.com/city/varanasi"
+                  },
+                  {
+                    "label": "vijayawada",
+                    "link": "https://timesofindia.indiatimes.com/city/vijayawada"
+                  },
+                  {
+                    "label": "visakhapatnam",
+                    "link": "https://timesofindia.indiatimes.com/city/visakhapatnam"
+                  },
+                  {
+                    "label": "photos",
+                    "link": "https://timesofindia.indiatimes.com/city/photos"
+                  },
+                  {
+                    "label": "Web Stories",
+                    "link": "https://timesofindia.indiatimes.com/city/web-stories"
+                  }
+                ]
+              }
+            ]
+          },
+          "theme": "col"
+        },
+        {
+          "label": "India",
+          "link": "https://toidev.indiatimes.com/india",
+          "subMenuList": {
+            "type": "multiList2",
+            "data": [
+              {
+                "label": "",
+                "data": [
+                  {
+                    "label": "featured",
+                    "link": "https://timesofindia.indiatimes.com/india"
+                  },
+                  {
+                    "label": "Maha Kumbh Mela 2025",
+                    "link": "https://timesofindia.indiatimes.com/india/maha-kumbh-mela-2025"
+                  },
+                  {
+                    "label": "Times Evoke",
+                    "link": "https://timesofindia.indiatimes.com/india/times-evoke"
+                  },
+                  {
+                    "label": "Maharashtra",
+                    "link": "https://timesofindia.indiatimes.com/india/maharashtra"
+                  },
+                  {
+                    "label": "Delhi",
+                    "link": "https://timesofindia.indiatimes.com/india/delhi"
+                  },
+                  {
+                    "label": "Karnataka",
+                    "link": "https://timesofindia.indiatimes.com/india/karnataka"
+                  },
+                  {
+                    "label": "Tamil Nadu",
+                    "link": "https://timesofindia.indiatimes.com/india/tamil-nadu"
+                  },
+                  {
+                    "label": "Telangana",
+                    "link": "https://timesofindia.indiatimes.com/india/telangana"
+                  },
+                  {
+                    "label": "Uttar Pradesh",
+                    "link": "https://timesofindia.indiatimes.com/india/uttar-pradesh"
+                  },
+                  {
+                    "label": "West Bengal",
+                    "link": "https://timesofindia.indiatimes.com/india/west-bengal"
+                  },
+                  {
+                    "label": "Gujarat",
+                    "link": "https://timesofindia.indiatimes.com/india/gujarat"
+                  },
+                  {
+                    "label": "Madhya Pradesh",
+                    "link": "https://timesofindia.indiatimes.com/india/madhya-pradesh"
+                  },
+                  {
+                    "label": "Bihar",
+                    "link": "https://timesofindia.indiatimes.com/india/bihar"
+                  },
+                  {
+                    "label": "Chandigarh",
+                    "link": "https://timesofindia.indiatimes.com/india/chandigarh"
+                  },
+                  {
+                    "label": "Rajasthan",
+                    "link": "https://timesofindia.indiatimes.com/india/rajasthan"
+                  },
+                  {
+                    "label": "Arunachal Pradesh",
+                    "link": "https://timesofindia.indiatimes.com/india/arunachal-pradesh"
+                  },
+                  {
+                    "label": "Andhra Pradesh",
+                    "link": "https://timesofindia.indiatimes.com/india/andhra-pradesh"
+                  },
+                  {
+                    "label": "Assam",
+                    "link": "https://timesofindia.indiatimes.com/india/assam"
+                  },
+                  {
+                    "label": "Chhattisgarh",
+                    "link": "https://timesofindia.indiatimes.com/india/chhattisgarh"
+                  },
+                  {
+                    "label": "Goa",
+                    "link": "https://timesofindia.indiatimes.com/india/goa"
+                  },
+                  {
+                    "label": "Haryana",
+                    "link": "https://timesofindia.indiatimes.com/india/haryana"
+                  },
+                  {
+                    "label": "Himachal Pradesh",
+                    "link": "https://timesofindia.indiatimes.com/india/himachal-pradesh"
+                  },
+                  {
+                    "label": "Jammu Kashmir",
+                    "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir"
+                  },
+                  {
+                    "label": "Jharkhand",
+                    "link": "https://timesofindia.indiatimes.com/india/jharkhand"
+                  },
+                  {
+                    "label": "Kerala",
+                    "link": "https://timesofindia.indiatimes.com/india/kerala"
+                  },
+                  {
+                    "label": "Manipur",
+                    "link": "https://timesofindia.indiatimes.com/india/manipur"
+                  },
+                  {
+                    "label": "Meghalaya",
+                    "link": "https://timesofindia.indiatimes.com/india/meghalaya"
+                  },
+                  {
+                    "label": "Mizoram",
+                    "link": "https://timesofindia.indiatimes.com/india/mizoram"
+                  },
+                  {
+                    "label": "Nagaland",
+                    "link": "https://timesofindia.indiatimes.com/india/nagaland"
+                  },
+                  {
+                    "label": "Odisha",
+                    "link": "https://timesofindia.indiatimes.com/india/orissa"
+                  },
+                  {
+                    "label": "Punjab",
+                    "link": "https://timesofindia.indiatimes.com/india/punjab"
+                  },
+                  {
+                    "label": "Sikkim",
+                    "link": "https://timesofindia.indiatimes.com/india/sikkim"
+                  },
+                  {
+                    "label": "Tripura",
+                    "link": "https://timesofindia.indiatimes.com/india/tripura"
+                  },
+                  {
+                    "label": "Uttarakhand",
+                    "link": "https://timesofindia.indiatimes.com/india/uttarakhand"
+                  },
+                  {
+                    "label": "Andaman Nicobar Islands",
+                    "link": "https://timesofindia.indiatimes.com/india/andaman-and-nicobar-islands"
+                  },
+                  {
+                    "label": "Dadra Nagar Haveli",
+                    "link": "https://timesofindia.indiatimes.com/india/dadra-and-nagar-haveli"
+                  },
+                  {
+                    "label": "Daman Diu",
+                    "link": "https://timesofindia.indiatimes.com/india/daman-and-diu"
+                  },
+                  {
+                    "label": "Lakshadweep",
+                    "link": "https://timesofindia.indiatimes.com/india/lakshadweep"
+                  },
+                  {
+                    "label": "Pondicherry",
+                    "link": "https://timesofindia.indiatimes.com/india/pondicherry"
+                  },
+                  {
+                    "label": "Web Stories",
+                    "link": "https://timesofindia.indiatimes.com/india/web-stories"
+                  },
+                  {
+                    "label": "Saving Our Stripes",
+                    "link": "https://timesofindia.indiatimes.com/Savingourstripes"
+                  },
+                  {
+                    "label": "Digital Arrest",
+                    "link": "https://timesofindia.indiatimes.com/india/digital-arrest"
+                  }
+                ]
+              }
+            ]
+          },
+          "theme": "col"
+        },
+        {
+          "label": "World",
+          "link": "https://toidev.indiatimes.com/world",
+          "subMenu": [
+            {
+              "label": "world",
+              "link": "https://toidev.indiatimes.com/world",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-296589292.cms",
+              "theme": "col"
+            },
+            {
+              "label": "US Presidential Elections",
+              "link": "https://toidev.indiatimes.com/world/us/us-presidential-elections",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-70432666.cms",
+              "theme": "col"
+            },
+            {
+              "label": "US",
+              "link": "https://toidev.indiatimes.com/world/us",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-30359486.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Pakistan",
+              "link": "https://toidev.indiatimes.com/world/pakistan",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistrootdf,perpage-15,msid-30359534.cms",
+              "theme": "col"
+            },
+            {
+              "label": "South Asia",
+              "link": "https://toidev.indiatimes.com/world/south-asia",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3907412.cms",
+              "theme": "col"
+            },
+            {
+              "label": "UK",
+              "link": "https://toidev.indiatimes.com/world/uk",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2177298.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Europe",
+              "link": "https://toidev.indiatimes.com/world/europe",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-1898274.cms",
+              "theme": "col"
+            },
+            {
+              "label": "China",
+              "link": "https://toidev.indiatimes.com/world/china",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistrootdf,perpage-15,msid-1898184.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Middle East",
+              "link": "https://toidev.indiatimes.com/world/middle-east",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-1898272.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Rest of World",
+              "link": "https://toidev.indiatimes.com/world/rest-of-world",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-671314.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Mad, Mad World",
+              "link": "https://toidev.indiatimes.com/world/mad-mad-World",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2178430.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Photos",
+              "link": "https://photogallery.indiatimes.com/news/world",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-pgprioritycontent,perpage-15,msid-14582101.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Videos",
+              "link": "https://toidev.indiatimes.com/videos/international",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-5750093.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Web Stories",
+              "link": "https://toidev.indiatimes.com/world/web-stories",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-296589292.cms",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Business",
+          "link": "https://toidev.indiatimes.com/business",
+          "subMenu": [
+            {
+              "label": "Business",
+              "link": "https://toidev.indiatimes.com/business",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-1898055.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Financial Literacy",
+              "link": "https://toidev.indiatimes.com/business/financial-literacy",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-107935854.cms",
+              "theme": "col"
+            },
+            {
+              "label": "India Business",
+              "link": "https://toidev.indiatimes.com/business/india-business",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid--2128682902.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Financial Calculators",
+              "link": "https://toidev.indiatimes.com/business/financial-calculators",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-90106103.cms",
+              "theme": "col"
+            },
+            {
+              "label": "International Business",
+              "link": "https://toidev.indiatimes.com/business/international-business",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid--2128680634.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Markets",
+              "link": "https://toidev.indiatimes.com/business/stock-market",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-83917786.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Videos",
+              "link": "https://toidev.indiatimes.com/videos/business",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3813458.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Cryptocurrency",
+              "link": "https://toidev.indiatimes.com/business/cryptocurrency",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-82453999.cms",
+              "theme": "col"
+            },
+            {
+              "label": "TOI Dialogues",
+              "link": "https://toidev.indiatimes.com/toi-dialogues",
+              "theme": "col"
+            },
+            {
+              "label": "Credit Score",
+              "link": "https://toidev.indiatimes.com/business/credit-score-calculator-and-credit-card",
+              "theme": "col"
+            },
+            {
+              "label": "Wealth",
+              "link": "https://toidev.indiatimes.com/business/personal-finance",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-83917799.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Sensex",
+              "link": "https://toidev.indiatimes.com/business/india-business/sensex",
+              "theme": "col"
+            },
+            {
+              "label": "Photos",
+              "link": "https://photogallery.indiatimes.com/news/business",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-pgprioritycontent,perpage-15,msid-15466935.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Startups",
+              "link": "https://toidev.indiatimes.com/business/startups",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-89446359.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Budget 2025",
+              "link": "https://toidev.indiatimes.com/business/budget",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-96169795.cms",
+              "theme": "col"
+            },
+            {
+              "label": "FAQs",
+              "link": "https://toidev.indiatimes.com/business/faqs",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-61359171.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Web Stories",
+              "link": "https://toidev.indiatimes.com/business/web-stories",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-1898055.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Financial Literacy Summit",
+              "link": "https://timesofindia.indiatimes.com/RightToExcellence/Financial-Literacy-Summit?utm_source=TOI&utm_medium=BusinessSection_DropDown&utm_campaign=RTE_FLS_04Mar2024 ",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Tech",
+          "link": "https://toidev.indiatimes.com/technology",
+          "subMenu": [
+            {
+              "label": "Technology",
+              "link": "https://toidev.indiatimes.com/technology",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-98302767.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Tech Tips",
+              "link": "https://toidev.indiatimes.com/technology/tech-tips",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756342.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Tech News",
+              "link": "https://toidev.indiatimes.com/technology/tech-news",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756370.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Mobile & Tabs",
+              "link": "https://toidev.indiatimes.com/technology/mobiles-tabs",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106755943.cms",
+              "theme": "col"
+            },
+            {
+              "label": "GN Awards 2024",
+              "link": "https://gadgetsnow.indiatimes.com/awards?utm_source=TOI&amp;utm_medium=L2&amp;utm_campaign=GNAwards2024",
+              "theme": "col"
+            },
+            {
+              "label": "Gaming",
+              "link": "https://toidev.indiatimes.com/technology/gaming",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756117.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Wearables",
+              "link": "https://toidev.indiatimes.com/technology/wearables",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756277.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Social",
+              "link": "https://toidev.indiatimes.com/technology/social",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756386.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Audio",
+              "link": "https://toidev.indiatimes.com/technology/audio",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756355.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Reviews",
+              "link": "https://toidev.indiatimes.com/technology/reviews",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756399.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Laptops & PC",
+              "link": "https://toidev.indiatimes.com/technology/laptops-pc",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756003.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Appliances",
+              "link": "https://toidev.indiatimes.com/technology/appliances",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-106756325.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Gadgets",
+              "link": "https://gadgetsnow.indiatimes.com/",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-66949542.cms",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Cricket",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket",
+          "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-54829575.cms",
+          "theme": "col"
+        },
+        {
+          "label": "Sports",
+          "link": "https://toidev.indiatimes.com/sports",
+          "subMenu": [
+            {
+              "label": "sports",
+              "link": "https://toidev.indiatimes.com/sports",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-4719148.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Cricket",
+              "link": "https://toidev.indiatimes.com/sports/cricket",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-54829575.cms",
+              "theme": "col"
+            },
+            {
+              "label": "England tour of India",
+              "link": "https://toidev.indiatimes.com/sports/cricket/england-tour-of-india-2025",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-116880764.cms",
+              "theme": "col"
+            },
+            {
+              "label": "IND VS AUS",
+              "link": "https://toidev.indiatimes.com/sports/cricket/india-in-australia",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-65820564.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Champions Trophy",
+              "link": "https://toidev.indiatimes.com/sports/cricket/icc-champions-trophy",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-115893938.cms",
+              "theme": "col"
+            },
+            {
+              "label": "NBA",
+              "link": "https://toidev.indiatimes.com/sports/nba",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-8014655.cms",
+              "theme": "col"
+            },
+            {
+              "label": "International Sports",
+              "link": "https://toidev.indiatimes.com/sports/international-sports",
+              "theme": "col"
+            },
+            {
+              "label": "MLB",
+              "link": "https://toidev.indiatimes.com/sports/mlb",
+              "theme": "col"
+            },
+            {
+              "label": "NFL",
+              "link": "https://toidev.indiatimes.com/sports/nfl",
+              "theme": "col"
+            },
+            {
+              "label": "WWE",
+              "link": "https://toidev.indiatimes.com/sports/wwe",
+              "theme": "col"
+            },
+            {
+              "label": "Football",
+              "link": "https://toidev.indiatimes.com/sports/football",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-4719953.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Live Cricket Score",
+              "link": "https://toidev.indiatimes.com/sports/cricket/live-cricket-score",
+              "theme": "col"
+            },
+            {
+              "label": "IPL 2025",
+              "link": "https://toidev.indiatimes.com/sports/cricket/ipl",
+              "theme": "col"
+            },
+            {
+              "label": "Tennis",
+              "link": "https://toidev.indiatimes.com/sports/tennis",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-4719952.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Badminton",
+              "link": "https://toidev.indiatimes.com/sports/badminton",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3413169.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Hockey",
+              "link": "https://toidev.indiatimes.com/sports/hockey",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-5802552.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Web Stories",
+              "link": "https://toidev.indiatimes.com/sports/web-stories",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-75004996.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Videos",
+              "link": "https://toidev.indiatimes.com/videos/sports",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-59286317.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Racing",
+              "link": "https://toidev.indiatimes.com/sports/racing",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-5802555.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Athletics",
+              "link": "https://toidev.indiatimes.com/sports/more-sports/athletics",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3413198.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Wrestling",
+              "link": "https://toidev.indiatimes.com/sports/more-sports/wrestling",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3413189.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Shooting",
+              "link": "https://toidev.indiatimes.com/sports/more-sports/shooting",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3413165.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Boxing",
+              "link": "https://toidev.indiatimes.com/sports/boxing/articlelist/3413166.cms",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3413166.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Chess",
+              "link": "https://toidev.indiatimes.com/sports/chess",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-5802554.cms",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Entertainment",
+          "link": "https://toidev.indiatimes.com/etimes",
+          "subMenu": [
+            {
+              "label": "Entertainment",
+              "link": "https://timesofindia.indiatimes.com/etimes",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-7507116.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Hindi",
+              "link": "https://toidev.indiatimes.com/entertainment/hindi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135527.cms",
+              "theme": "col"
+            },
+            {
+              "label": "English",
+              "link": "https://toidev.indiatimes.com/entertainment/english",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135489.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Tamil",
+              "link": "https://toidev.indiatimes.com/entertainment/tamil",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135454.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Telugu",
+              "link": "https://toidev.indiatimes.com/entertainment/telugu",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135440.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Malayalam",
+              "link": "https://toidev.indiatimes.com/entertainment/malayalam",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135428.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Kannada",
+              "link": "https://toidev.indiatimes.com/entertainment/kannada",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135414.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Bengali",
+              "link": "https://toidev.indiatimes.com/entertainment/bengali",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135398.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Punjabi",
+              "link": "https://toidev.indiatimes.com/entertainment/punjabi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27135289.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Marathi",
+              "link": "https://toidev.indiatimes.com/entertainment/marathi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27134572.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Bhojpuri",
+              "link": "https://toidev.indiatimes.com/entertainment/bhojpuri",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27134497.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Gujarati",
+              "link": "https://toidev.indiatimes.com/entertainment/gujarati",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-29982848.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Movie Reviews",
+              "link": "https://toidev.indiatimes.com/entertainment/movie-reviews",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-7507116.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Music",
+              "link": "https://toidev.indiatimes.com/entertainment/music",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-27976150.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Beauty Pageants",
+              "link": "https://beautypageants.indiatimes.com/",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-15572382.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Photos",
+              "link": "https://photogallery.indiatimes.com/",
+              "theme": "col"
+            },
+            {
+              "label": "Videos",
+              "link": "https://toidev.indiatimes.com/videos/entertainment",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-61548478.cms",
+              "type": "video",
+              "theme": "video"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Astro",
+          "link": "https://toidev.indiatimes.com/astrology",
+          "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-65857041.cms",
+          "theme": "col"
+        },
+        {
+          "label": "TV",
+          "link": "https://toidev.indiatimes.com/tv/hindi",
+          "subMenu": [
+            {
+              "label": "TV",
+              "link": "https://toidev.indiatimes.com/tv/hindi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-17781976.cms",
+              "theme": "col"
+            },
+            {
+              "label": "TV News",
+              "link": "https://toidev.indiatimes.com/tv/news/hindi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2278290.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Photos",
+              "link": "https://photogallery.indiatimes.com/tv",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17587058&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Videos",
+              "link": "https://toidev.indiatimes.com/videos/tv",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-8,msid-49150189.cms",
+              "type": "video",
+              "theme": "video"
+            },
+            {
+              "label": "Hindi",
+              "link": "https://toidev.indiatimes.com/tv/hindi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2278290.cms",
+              "theme": "col"
+            },
+            {
+              "label": "English",
+              "link": "https://toidev.indiatimes.com/tv/english",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457568.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Tamil",
+              "link": "https://toidev.indiatimes.com/tv/tamil",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457467.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Telugu",
+              "link": "https://toidev.indiatimes.com/tv/telugu",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457315.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Malayalam",
+              "link": "https://toidev.indiatimes.com/tv/malayalam",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457304.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Kannada",
+              "link": "https://toidev.indiatimes.com/tv/kannada",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457295.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Marathi",
+              "link": "https://toidev.indiatimes.com/tv/marathi",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457283.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Bengali",
+              "link": "https://toidev.indiatimes.com/tv/bengali",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-45457278.cms",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Web Series",
+          "link": "https://toidev.indiatimes.com/web-series/news",
+          "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-76282442.cms",
+          "theme": "col"
+        },
+        {
+          "label": "Life & Style",
+          "link": "https://toidev.indiatimes.com/life-style",
+          "subMenu": [
+            {
+              "label": "Relationships",
+              "link": "https://toidev.indiatimes.com/life-style/relationships",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2886713.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Health+",
+              "link": "https://toidev.indiatimes.com/life-style/health-fitness",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2886714.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Coronavirus",
+              "link": "https://toidev.indiatimes.com/life-style/health-fitness/coronavirus",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-74495778.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Parenting",
+              "link": "https://toidev.indiatimes.com/life-style/parenting",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-65839708.cms",
+              "theme": "col"
+            },
+            {
+              "label": "The Arts",
+              "link": "https://toidev.indiatimes.com/life-style/the-arts",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-103830570.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Soul Search",
+              "link": "https://toidev.indiatimes.com/life-style/soul-search",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-103830679.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Beauty",
+              "link": "https://toidev.indiatimes.com/life-style/beauty",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2886724.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Spotlight",
+              "link": "https://toidev.indiatimes.com/life-style/spotlight",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistrootdf,perpage-15,msid-4141042.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Recipes",
+              "link": "https://recipes.timesofindia.com",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2886710.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Food News",
+              "link": "https://toidev.indiatimes.com/life-style/food-news",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-64732371.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Travel",
+              "link": "https://toidev.indiatimes.com/travel",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistrootdf,perpage-15,msid-50714090.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Books",
+              "link": "https://toidev.indiatimes.com/life-style/books",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-48956926.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Home & Garden",
+              "link": "https://toidev.indiatimes.com/life-style/home-garden",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-5912641.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Style",
+              "link": "https://toidev.indiatimes.com/life-style/fashion",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-2886715.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Events",
+              "link": "https://toidev.indiatimes.com/life-style/events",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-59665595.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Photos",
+              "link": "https://photogallery.indiatimes.com/",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-17584223.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Videos",
+              "link": "https://toidev.indiatimes.com/videos/lifestyle",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-3813443.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Religion",
+              "link": "https://toidev.indiatimes.com/religion",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-79795437.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Astrology",
+              "link": "https://toidev.indiatimes.com/astrology",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-65857041.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Women's Day Special",
+              "link": "https://timesofindia.indiatimes.com/righttoexcellence/womensdayspecial?utm_source=TOI&utm_medium=BusinessSection_DropDown&utm_campaign=RTE_WDS_07MAR",
+              "theme": "col"
+            },
+            {
+              "label": "Senior Care",
+              "link": "https://timesofindia.indiatimes.com/senior-care",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Education",
+          "link": "https://toidev.indiatimes.com/education",
+          "subMenu": [
+            {
+              "label": "News",
+              "link": "https://toidev.indiatimes.com/education/news",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-913168846.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Jobs",
+              "link": "https://toidev.indiatimes.com/education/jobs",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-62943566.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Board Exams",
+              "link": "https://toidev.indiatimes.com/home/education/board-exams",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-9978123.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Entrance Exam",
+              "link": "https://toidev.indiatimes.com/home/education/entrance-exams",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-9978115.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Exam Results",
+              "link": "https://toidev.indiatimes.com/education/exam-results",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-46920106.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Admission",
+              "link": "https://toidev.indiatimes.com/education/admissions",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-58910946.cms",
+              "theme": "col"
+            },
+            {
+              "label": "CBSE",
+              "link": "https://toidev.indiatimes.com/education/cbse",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-67162845.cms",
+              "theme": "col"
+            },
+            {
+              "label": "Times Study Abroad",
+              "link": "https://toidev.indiatimes.com/education/times-study-abroad",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistroot,perpage-15,msid-69768589.cms",
+              "theme": "col"
+            },
+            {
+              "label": "MBA",
+              "link": "https://toidev.indiatimes.com/education/mba",
+              "wu": "https://toidev.indiatimes.com/feed_news_list/feedtype-sjson,tag-articlelistrootdf,perpage-15,msid-61447237.cms",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Photos",
+          "link": "https://photogallery.indiatimes.com",
+          "subMenu": [
+            {
+              "label": "Photos",
+              "link": "https://photogallery.indiatimes.com/",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17584223&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Movies",
+              "link": "https://photogallery.indiatimes.com/Movies/articlelist/2048925.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17583304&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Celebs",
+              "link": "https://photogallery.indiatimes.com/Celebs/articlelist/2371672.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17585167&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Fashion",
+              "link": "https://photogallery.indiatimes.com/Fashion/articlelist/2371395.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17584769&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Beauty pageants",
+              "link": "https://photogallery.indiatimes.com/Beauty-Pageants/articlelist/2371373.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17587006&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Awards",
+              "link": "https://photogallery.indiatimes.com/Awards/articlelist/5479755.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=19726996&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Events",
+              "link": "https://photogallery.indiatimes.com/Events/articlelist/2048921.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17586713&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "TV",
+              "link": "https://photogallery.indiatimes.com/TV/articlelist/2371820.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17587058&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Sports",
+              "link": "https://photogallery.indiatimes.com/Sports/articlelist/2048907.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17587292&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "Gadgets",
+              "link": "https://photogallery.indiatimes.com/Gadgets/articlelist/2052830.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17587356&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            },
+            {
+              "label": "News",
+              "link": "https://photogallery.indiatimes.com/News/articlelist/2048895.cms",
+              "wu": "https://timesofindia.indiatimes.com/feeds/web_xml_feed_news_list.cms?msid=17587233&tag=pgprioritycontent&perpage=8&feedtype=sjson",
+              "type": "photo",
+              "theme": "col"
+            }
+          ],
+          "theme": "col"
+        },
+        {
+          "label": "Blogs",
+          "link": "https://timesofindia.indiatimes.com/blogs/?utm_source=TOInewHP_TILwidget&utm_medium=NavLi&utm_campaign=TOInewHP",
+          "theme": "col"
+        }
+      ]
+    },
+    "hideTimeStamp": true,
+    "editionSwitch": {
+      "editions": [
+        {
+          "id": "in",
+          "link": "https://toidev.indiatimes.com/",
+          "openInNewTab": true,
+          "label": "IN",
+          "default": true
+        },
+        {
+          "id": "us",
+          "link": "https://toidev.indiatimes.com/us",
+          "openInNewTab": true,
+          "label": "US"
+        }
+      ]
+    },
+    "masthead": {
+      "type": "toiLogo",
+      "link": "https://timesofindia.indiatimes.com/",
+      "colorTheme": "dark",
+      "bgcolor": "#000000",
+      "data": {
+        "src": ""
+      },
+      "innovation": false
+    },
+    "colorTheme": "snowwhite"
+  },
+  "footer": {
+    "andBeyond": {
+      "adCode": "/7176/TOI/TOI_ROS/TOI_ROS_Andbeyond_1x1",
+      "divId": "div-gpt-ad-92c5ce31-70cf-4f05-81ac-98ec0124e172-dec8a53c-0bf5-4a43-9517-33e2d4b7b4fd",
+      "size": [[1, 1]],
+      "prebid": "false",
+      "adType": "dfp",
+      "tn": "ad"
+    },
+    "logo": {
+      "link": "/"
+    },
+    "socials": {
+      "social": {
+        "label": "Follow us on",
+        "items": [
+          {
+            "type": "fb",
+            "wu": "https://www.facebook.com/TimesofIndia",
+            "hl": "facebook"
+          },
+          {
+            "type": "twitter",
+            "wu": "https://twitter.com/timesofindia",
+            "hl": "twitter"
+          },
+          {
+            "type": "rss",
+            "wu": "https://timesofindia.indiatimes.com/rss.cms",
+            "hl": "rss feed"
+          },
+          {
+            "type": "youtube",
+            "wu": "https://www.youtube.com/timesofindia",
+            "hl": "youtube"
+          }
+        ]
+      }
+    },
+    "otherTimesSite": {
+      "label": "Other Times Group News Sites",
+      "items": [
+        {
+          "hl": "The Economic Times",
+          "wu": "https://economictimes.indiatimes.com"
+        },
+        {
+          "hl": "Hindi Economic Times",
+          "wu": "https://economictimes.indiatimes.com/hindi"
+        },
+        {
+          "hl": "Navbharat Times",
+          "wu": "https://navbharattimes.indiatimes.com"
+        },
+        {
+          "hl": "Maharashtra Times",
+          "wu": "https://marathi.indiatimes.com/"
+        },
+        {
+          "hl": "Vijaya Karnataka",
+          "wu": "https://vijaykarnataka.com/"
+        },
+        {
+          "hl": "Telugu Samayam",
+          "wu": "https://telugu.samayam.com/"
+        },
+        {
+          "hl": "Tamil Samayam",
+          "wu": "https://tamil.samayam.com/"
+        },
+        {
+          "hl": "Malayalam Samayam",
+          "wu": "https://malayalam.samayam.com/"
+        },
+        {
+          "hl": "I am Gujarat",
+          "wu": "https://www.iamgujarat.com/"
+        },
+        {
+          "hl": "TimesPoints",
+          "wu": "https://www.timespoints.com/#/products?utm_source=TOI&utm_medium=Footer&utm_campaign=TOI_Footer"
+        },
+        {
+          "hl": "Indiatimes",
+          "wu": "https://www.indiatimes.com/"
+        },
+        {
+          "hl": "Brand Capital",
+          "wu": "https://www.brandcapital.co.in/"
+        },
+        {
+          "hl": "Education Times",
+          "wu": "https://www.educationtimes.com/"
+        },
+        {
+          "hl": "Times Food",
+          "wu": "https://recipes.timesofindia.com/?_ga=2.136800816.1428222683.1593400724-amp-NKUM-n_c6RPY3Ify9MKZw1pfgLblvF469YKIurBFWMVAL1su-edve8E2rJu4yhmC"
+        },
+        {
+          "hl": "Mumbai Mirror",
+          "wu": "https://mumbaimirror.indiatimes.com/"
+        },
+        {
+          "hl": "Bangalore Mirror",
+          "wu": "https://bangaloremirror.indiatimes.com"
+        },
+        {
+          "hl": "IndiaTimes Bangla",
+          "wu": "https://bangla.indiatimes.com/"
+        },
+        {
+          "hl": "Hindi Podcast",
+          "wu": "https://navbharattimes.indiatimes.com/navbharatgold"
+        }
+      ]
+    },
+    "electionLiveblogsWidget": {
+      "label": "Explore Every Corner",
+      "items": [
+        {
+          "hl": "8th Pay Commission",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/8th-pay-commission-latest-news-cabinet-approves-constitution-of-8th-pay-commission-details-here-all-you-need-to-know/articleshow/117296051.cms"
+        },
+        {
+          "hl": "Saif Ali Khan",
+          "wu": "https://timesofindia.indiatimes.com/india/saif-ali-khan-stabbed-6-times-by-intruder-at-his-mumbai-home-undergoes-surgery/articleshow/117282256.cms"
+        },
+        {
+          "hl": "Saif Ali Khan Attacked",
+          "wu": "https://timesofindia.indiatimes.com/india/saif-ali-khan-attacked-mumbai-kareena-kapoor-joe-bidens-speech-hindenburg-shut-down-adani-israel-hamas-ceasefire-trump-delhi-weather-donald-trump-musk-dinner-what-all-changed-overnight/articleshow/117284254.cms"
+        },
+        {
+          "hl": "Who is Jack Hoffman",
+          "wu": "https://timesofindia.indiatimes.com/sports/nfl/news/who-is-jack-hoffman-a-key-player-in-nebraska-football-history-passes-away-from-cancer-at-the-age-of-19/articleshow/117281766.cms"
+        },
+        {
+          "hl": "Maha Kumbh Mela 2025",
+          "wu": "https://timesofindia.indiatimes.com/city/allahabad/maha-kumbh-2025-live-updates-prayagraj-naga-sadhu-amrit-snan-dates-mauni-amavasya-up-mahakumbh-mela/liveblog/117281892.cms"
+        },
+        {
+          "hl": "Stock Market Today",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-january-16-2025-dalal-street-indian-equities-global-markets/articleshow/117282525.cms"
+        },
+        {
+          "hl": "Meghan Markle",
+          "wu": "https://timesofindia.indiatimes.com/world/us/meghan-markle-dumbfounded-at-the-backlash-over-la-fire-victims-visit-they-thought-putting-out-another-statement/articleshow/117275956.cms"
+        },
+        {
+          "hl": "Pam Bondi",
+          "wu": "https://timesofindia.indiatimes.com/world/us/pam-bondi-takes-names-of-her-childhood-friends-during-senate-hearing-tells-democrat-senator-if-you-want-to-get-dirt-on-me-/articleshow/117272700.cms"
+        },
+        {
+          "hl": "Shaquille Oneal Ex Wife",
+          "wu": "https://timesofindia.indiatimes.com/sports/nba/top-stories/shaquille-oneals-ex-wife-shaunie-henderson-posts-a-heartwarming-montage-to-celebrate-her-favorite-second-oldest-sons-big-day/articleshow/117208101.cms"
+        },
+        {
+          "hl": "Israel Hamas Ceasefire",
+          "wu": "https://timesofindia.indiatimes.com/world/middle-east/reached-boiling-point-over-96-hours-all-you-need-to-know-about-israel-hamas-ceasefire/articleshow/117283037.cms"
+        },
+        {
+          "hl": "Lebron James",
+          "wu": "https://timesofindia.indiatimes.com/sports/nba/top-stories/lebron-james-reacts-to-lonzo-lamelo-and-liangelo-ball-stellar-296-million-achievement/articleshow/117272078.cms"
+        },
+        {
+          "hl": "Pushpa 2 Box Office Collection",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/pushpa-2-box-office-collection-day-42-allu-arjun-and-rashmika-mandannas-action-drama-mints-only-rs-1-crore-on-wednesday-while-ram-charans-game-changer-leads-the-reign/articleshow/117281077.cms"
+        },
+        {
+          "hl": "Game Changer Box Office Collection",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/game-changer-box-office-collection-day-6-ram-charan-starrer-hits-its-lowest-after-crossing-the-rs-100-crore-mark/articleshow/117281420.cms"
+        },
+        {
+          "hl": "Saif Ali Khan Health Update",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-health-live-update-actor-saif-ali-khan-attacked-with-a-knife-inside-bandra-house-during-a-robbery-bid/liveblog/117283257.cms"
+        },
+        {
+          "hl": "Patrick Mahomes Mother",
+          "wu": "https://timesofindia.indiatimes.com/sports/nfl/news/randi-mahomes-mother-of-nfl-star-patrick-mahomes-openly-ditches-uber-eats-doordash-how-will-the-brand-revert-now/articleshow/117277155.cms"
+        },
+        {
+          "hl": "Donald Trump",
+          "wu": "https://timesofindia.indiatimes.com/world/us/they-will-start-paying-donald-trump-announces-plans-for-external-revenue-service-to-collect-foreign-tariffs/articleshow/117249301.cms"
+        },
+        {
+          "hl": "Starlink Satellites Orbit",
+          "wu": "https://timesofindia.indiatimes.com/world/china/whale-strategy-china-plans-to-blow-elon-musk-starlink-satellites-in-a-taiwan-war/articleshow/117241111.cms"
+        },
+        {
+          "hl": "Los Angeles Wildfire",
+          "wu": "https://timesofindia.indiatimes.com/world/us/los-angeles-california-wildfires-live-updates-hollywood-hills-pacific-palisades-homes-destroyed-power-outage-kenneth-fire/liveblog/117280699.cms"
+        },
+        {
+          "hl": "ISRO Satellites",
+          "wu": "https://timesofindia.indiatimes.com/india/isro-docks-satellites-india-takes-first-step-towards-entering-elite-club-of-nations/articleshow/117282977.cms"
+        },
+        {
+          "hl": "Jasprit Bumrah",
+          "wu": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-on-bed-rest-will-not-be-rushed-back/articleshow/117266492.cms"
+        },
+        {
+          "hl": "Jalen Green",
+          "wu": "https://timesofindia.indiatimes.com/sports/nba/top-stories/jalen-green-breaks-career-high-with-42-points-draya-michele-cheers-on-houston-rockets-star/articleshow/117245564.cms"
+        },
+        {
+          "hl": "Israel Hamas Ceasefire",
+          "wu": "https://timesofindia.indiatimes.com/world/middle-east/hostage-exchange-military-ops-ceased-and-large-scale-aid-key-details-of-the-israel-hamas-ceasefire-deal/articleshow/117282398.cms"
+        },
+        {
+          "hl": "Hindenburg Research",
+          "wu": "https://timesofindia.indiatimes.com/world/us/shook-some-empires-that-needed-shaking-short-seller-hindenburg-research-to-shut-down/articleshow/117281282.cms"
+        },
+        {
+          "hl": "NEET UG 2025",
+          "wu": "https://timesofindia.indiatimes.com/education/nta-does-it-again-creates-uncertainty-over-neet-ug-2025/articleshow/117277043.cms"
+        },
+        {
+          "hl": "Adani Group",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/why-did-hindenburg-research-short-seller-behind-adani-group-150-bn-rout-shut-down-read-full-text-of-founder-nate-andersons-personal-note/articleshow/117287676.cms"
+        },
+        {
+          "hl": "Gus Williams",
+          "wu": "https://timesofindia.indiatimes.com/sports/nba/top-stories/gus-williams-dies-at-71-nba-world-mourns-as-two-time-all-star-passes-away/articleshow/117287169.cms"
+        },
+        {
+          "hl": "Adani Group CFO",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/kitne-ghazi-aaye-kitne-ghazi-adani-group-cfo-shares-cryptic-post-after-hindenburg-research-announces-shutdown/articleshow/117291489.cms"
+        },
+        {
+          "hl": "ICC Champions Trophy 2025 Schedule",
+          "wu": "https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy/schedule-fixtures"
+        },
+        {
+          "hl": "Bank Holidays 2025",
+          "wu": "https://timesofindia.indiatimes.com/business/bank-holidays"
+        },
+        {
+          "hl": "IITIAN Baba",
+          "wu": "https://timesofindia.indiatimes.com/city/allahabad/maha-kumbh-2025-iitian-baba-abhey-singhs-life-in-pictures/photostory/117282871.cms"
+        }
+      ],
+      "name": "Explore Every Corner",
+      "subHeading": "Across The Globe"
+    },
+    "lastSectionItems": {
+      "label": "Latest News",
+      "items": [
+        {
+          "hl": "Kite Flying: An Allegory Of Meditative Union",
+          "wu": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/kite-flying-an-allegory-of-meditative-union/articleshow/117227275.cms"
+        },
+        {
+          "hl": "UKPSC RO/ARO prelims exam 2024 postponed, admit cards released: Check detailed schedule and link to download hall tickets",
+          "wu": "https://timesofindia.indiatimes.com/education/news/ukpsc-ro/aro-prelims-exam-2024-postponed-admit-cards-released-check-detailed-schedule-and-link-to-download-hall-tickets/articleshow/117227265.cms"
+        },
+        {
+          "hl": "SA20: 'Couldn't ask for a better start from Kagiso Rabada,' says Reeza Hendricks after MICT beat Paarl Royals",
+          "wu": "https://timesofindia.indiatimes.com/sports/cricket/news/sa20-couldnt-ask-for-a-better-start-from-kagiso-rabada-says-reeza-hendricks-after-mict-beat-paarl-royals/articleshow/117226816.cms"
+        },
+        {
+          "hl": "Indian Armed Forces and Bajaj Auto embark on the ‘Dare Square’ rally",
+          "wu": "https://timesofindia.indiatimes.com/city/visakhapatnam/indian-armed-forces-and-bajaj-auto-embark-on-the-dare-square-rally/articleshow/117227044.cms"
+        },
+        {
+          "hl": "'Kaun hai yeh?': Kapil Dev responds with humour to Yograj Singh's 'want to put a bullet' comments",
+          "wu": "https://timesofindia.indiatimes.com/sports/off-the-field/kaun-hai-yeh-kapil-dev-responds-with-humour-to-yograj-singhs-want-to-put-a-bullet-comments/articleshow/117227105.cms"
+        },
+        {
+          "hl": "Why Stephen Baldwin thinks one of his brothers would fare better on special forces: 'A little stud muffin'",
+          "wu": "https://timesofindia.indiatimes.com/tv/news/english/why-stephen-baldwin-thinks-one-of-his-brothers-would-fare-better-on-special-forces-a-little-stud-muffin/articleshow/117227083.cms"
+        },
+        {
+          "hl": "Facebook founder doesn't know who India's PM is; gets corrected by IT Minister Ashwini Vaishnaw",
+          "wu": "https://timesofindia.indiatimes.com/technology/social/facebook-founder-doesnt-know-who-indias-pm-is-gets-corrected-by-it-minister-ashwini-vaishnaw/articleshow/117227085.cms"
+        },
+        {
+          "hl": "Delhi polls: Atishi files nomination papers from Kalkaji seat",
+          "wu": "https://timesofindia.indiatimes.com/city/delhi/delhi-polls-atishi-files-nomination-papers-from-kalkaji-seat/articleshow/117226527.cms"
+        },
+        {
+          "hl": "Sangam witnesses sea of devotees taking holy dip on Makar Sankranti",
+          "wu": "https://timesofindia.indiatimes.com/city/allahabad/sangam-witnesses-sea-of-devotees-taking-holy-dip-on-makar-sankranti/articleshow/117223993.cms"
+        },
+        {
+          "hl": "From Sean 'Diddy' Combs protection plot to woke politics: LA wildfires spark surge of wild conspiracy theories",
+          "wu": "https://timesofindia.indiatimes.com/world/us/from-sean-diddy-combs-protection-plot-to-woke-politics-la-wildfires-spark-surge-of-wild-conspiracy-theories/articleshow/117226022.cms"
+        },
+        {
+          "hl": "'India cap shouldn't be given just like that': Sunil Gavaskar urges BCCI to trim squad size for England Test tour",
+          "wu": "https://timesofindia.indiatimes.com/sports/cricket/news/india-cap-shouldnt-be-given-just-like-that-sunil-gavaskar-urges-bcci-to-trim-squad-size-for-england-test-tour/articleshow/117223996.cms"
+        },
+        {
+          "hl": "Jimmy Kimmel Live launches L.A. fire relief donation center on Hollywood backlot",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jimmy-kimmel-live-launches-l-a-fire-relief-donation-center-on-hollywood-backlot/articleshow/117226913.cms"
+        },
+        {
+          "hl": "Choreographer Bosco Martis is all praise for ‘Deva’ star, saying “Shahid Kapoor now dances like a superstar”",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/choreographer-bosco-martis-is-all-praise-for-deva-star-saying-shahid-kapoor-now-dances-like-a-superstar/articleshow/117226797.cms"
+        },
+        {
+          "hl": "Shruti Haasan discusses menstrual leave Says, 'We can apply it in some professions, but it is very difficult to apply it in cinema'",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/shruti-haasan-discusses-menstrual-leave-says-we-can-apply-it-in-some-professions-but-it-is-very-difficult-to-apply-it-in-cinema/articleshow/116713491.cms"
+        },
+        {
+          "hl": "Ram Charan’s Game Changer loses steam in North America as it struggles to cross US $1.9 million collection",
+          "wu": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/ram-charans-game-changer-loses-steam-in-north-america-as-it-struggles-to-cross-us-1-9-million-collection/articleshow/117226742.cms"
+        },
+        {
+          "hl": "Delhi police registers complaint against CM Atishi for using government vehicle for political purpose",
+          "wu": "https://timesofindia.indiatimes.com/india/fir-filed-against-delhi-cm-atishi-for-using-government-vehicle-for-political-purposes/articleshow/117223767.cms"
+        },
+        {
+          "hl": "WWE RAW on Netflix Results and Highlights (1/13/25): Shocking Debut, Chaotic Street Fight Match and More",
+          "wu": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-on-netflix-results-and-highlights-1/13/25-shocking-debut-chaotic-street-fight-match-and-more/articleshow/117226362.cms"
+        },
+        {
+          "hl": "Maha Kumbh 2025: Why is Harsha Richhariya the 'beautiful sadhvi' going viral on social media",
+          "wu": "https://timesofindia.indiatimes.com/etimes/trending/maha-kumbh-2025-why-is-harsha-richhariya-the-beautiful-sadhvi-going-viral-on-social-media/articleshow/117225962.cms"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "label": "Popular Categories",
+        "items": [
+          {
+            "wu": "https://timesofindia.indiatimes.com/home/headlines",
+            "hl": "Headlines"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/sports",
+            "hl": "Sports News"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/business/india-business",
+            "hl": "Business News"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/india",
+            "hl": "India News"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/world",
+            "hl": "World News"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news",
+            "hl": "Bollywood News"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/life-style/health-fitness",
+            "hl": "Health+ Tips"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/tv/hindi",
+            "hl": "Indian TV Shows"
+          },
+          {
+            "wu": "https://photogallery.indiatimes.com/celebs",
+            "hl": "Celebrity Photos"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/technology",
+            "hl": "Technology News"
+          }
+        ]
+      },
+      {
+        "label": "Hot on the Web",
+        "items": [
+          {
+            "hl": "Coldplay Mumbai Concert 2025",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/english/music/news/coldplay-mumbai-concert-2025-performance-schedule-venue-ticket-booking-entry-traffic-guidelines-and-more/articleshow/117282308.cms"
+          },
+          {
+            "hl": "Saif Ali Khan",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-stabbed-6-times-after-intruder-breaks-into-bandra-home-reports/articleshow/117282435.cms"
+          },
+          {
+            "hl": "Saif Ali Khan Attacked LIVE Update",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-health-live-update-actor-saif-ali-khan-attacked-with-a-knife-inside-bandra-house-during-a-robbery-bid/liveblog/117283257.cms"
+          },
+          {
+            "hl": "Pushpa 2 Box Office Collection",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/pushpa-2-box-office-collection-day-42-allu-arjun-and-rashmika-mandannas-action-drama-mints-only-rs-1-crore-on-wednesday-while-ram-charans-game-changer-leads-the-reign/articleshow/117281077.cms"
+          },
+          {
+            "hl": "Sharp Vision",
+            "wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/de-stress/optical-illusion-only-a-sharp-eyed-person-can-spot-101-amongst-181/articleshow/117208664.cms"
+          },
+          {
+            "hl": "Vitamin D",
+            "wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-d-risks-of-taking-vitamin-d-in-the-wrong-way-and-how-to-take-it-safely/articleshow/117200923.cms"
+          },
+          {
+            "hl": "Viral News",
+            "wu": "https://timesofindia.indiatimes.com/etimes/trending/jan-25-will-go-down-in-history-for-this-once-in-a-lifetime-event-in-the-sky-how-and-from-where-to-watch-in-india/articleshow/117130469.cms"
+          },
+          {
+            "hl": "Ranbir Kapoor",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-and-raha-kapoors-adorable-game-night-steals-hearts-while-alia-bhatt-enjoys-pickleball-with-friends/articleshow/117243126.cms"
+          },
+          {
+            "hl": "Viral News",
+            "wu": "https://timesofindia.indiatimes.com/etimes/trending/124-year-woman-who-outlived-her-children-shares-the-secret-of-her-long-life/articleshow/117271784.cms"
+          },
+          {
+            "hl": "Optical illusion",
+            "wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/de-stress/optical-illusion-only-a-person-with-a-creative-and-problem-solving-mindset-can-spot-a-face-in-8-seconds/articleshow/117141111.cms"
+          }
+        ]
+      },
+      {
+        "label": "Top Trends",
+        "items": [
+          {
+            "hl": "8th Pay Commission News",
+            "wu": "https://timesofindia.indiatimes.com/business/india-business/8th-pay-commission-latest-news-cabinet-approves-constitution-of-8th-pay-commission-details-here-all-you-need-to-know/articleshow/117296051.cms"
+          },
+          {
+            "hl": "Saif Ali Khan Attacked",
+            "wu": "https://timesofindia.indiatimes.com/india/saif-ali-khan-attacked-at-his-mumbai-home-what-we-know-so-far/articleshow/117285992.cms"
+          },
+          {
+            "hl": "Donald Trump",
+            "wu": "https://timesofindia.indiatimes.com/education/news/trump-agenda-to-axe-department-of-education-finds-solid-backing-in-north-carolina-heres-what-happened/articleshow/117269983.cms"
+          },
+          {
+            "hl": "Saif Ali Khan",
+            "wu": "https://timesofindia.indiatimes.com/india/saif-ali-khan-stabbed-6-times-by-intruder-at-his-mumbai-home-undergoes-surgery/articleshow/117282256.cms"
+          },
+          {
+            "hl": "Saif Ali Khan News",
+            "wu": "https://timesofindia.indiatimes.com/city/mumbai/saif-ali-khan-attacked-actor-woke-up-to-suspicious-sound-confronted-intruder-key-points/articleshow/117282870.cms"
+          },
+          {
+            "hl": "Smriti Mandhana",
+            "wu": "https://timesofindia.indiatimes.com/sports/cricket/news/two-3-0-sweeps-really-good-in-a-world-cup-year-smriti-mandhana/articleshow/117287158.cms"
+          },
+          {
+            "hl": "Amitabh Bachchan",
+            "wu": "https://timesofindia.indiatimes.com/city/lucknow/amitabh-bachchan-to-take-dip-at-sangam-x-post-raises-curiosity/articleshow/117276728.cms"
+          },
+          {
+            "hl": "Indian Cricket Team",
+            "wu": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-considers-expanding-india-mens-coaching-staff-report/articleshow/117283330.cms"
+          },
+          {
+            "hl": "Bengaluru Fire Bioinnovation Centre",
+            "wu": "https://timesofindia.indiatimes.com/city/bengaluru/fire-at-startup-hub-in-bengaluru-losses-put-at-rs-140-crore/articleshow/117254377.cms"
+          },
+          {
+            "hl": "Maha Kumbh",
+            "wu": "https://timesofindia.indiatimes.com/city/allahabad/maha-kumbh-2025-live-updates-prayagraj-naga-sadhu-amrit-snan-dates-mauni-amavasya-up-mahakumbh-mela/liveblog/117281892.cms"
+          },
+          {
+            "hl": "Adani Stocks",
+            "wu": "https://timesofindia.indiatimes.com/business/india-business/adani-group-stocks-rally-up-to-9-after-hindenburg-research-announces-shut-down/articleshow/117286421.cms"
+          },
+          {
+            "hl": "SBI PO Registration",
+            "wu": "https://timesofindia.indiatimes.com/education/news/sbi-po-2024-registration-window-closes-today-direct-link-to-apply-here/articleshow/117286500.cms"
+          },
+          {
+            "hl": "NTA APAAR ID",
+            "wu": "https://timesofindia.indiatimes.com/education/news/nta-releases-notice-to-integrate-apaar-id-with-neet-ug-2025-registration-process/articleshow/117242269.cms"
+          },
+          {
+            "hl": "RBSE Date Sheet",
+            "wu": "https://timesofindia.indiatimes.com/education/news/rbse-class-10th-12th-date-sheet-released-check-detailed-timetable-here/articleshow/117290800.cms"
+          },
+          {
+            "hl": "Delhi Election 2025",
+            "wu": "https://timesofindia.indiatimes.com/india/delhi-elections-2025-live-updates-date-results-arvind-kejriwal-atishi-aap-bjp-congress-candidate-list-election-commission/liveblog/117185343.cms"
+          },
+          {
+            "hl": "Mumbai Ahmedabad Vande Bharat",
+            "wu": "https://timesofindia.indiatimes.com/city/mumbai/first-look-mumbai-ahmedabad-vande-bharat-sleeper-train-raises-travel-standards-see-pics/photostory/117293101.cms"
+          },
+          {
+            "hl": "Harsha Bhogle",
+            "wu": "https://timesofindia.indiatimes.com/sports/cricket/news/harsha-bhogles-suggestion-for-bcci-to-improve-indian-cricket/articleshow/117289027.cms"
+          },
+          {
+            "hl": "Live Cricket Score",
+            "wu": "https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score"
+          }
+        ]
+      },
+      {
+        "label": "Trending Topics",
+        "items": [
+          {
+            "hl": "Game Changer Box Office Collection",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/game-changer-box-office-collection-day-6-ram-charan-starrer-hits-its-lowest-after-crossing-the-rs-100-crore-mark/articleshow/117281420.cms"
+          },
+          {
+            "hl": "Ravi Kishan",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/actor-and-mp-ravi-kishan-reacts-to-attack-on-saif-ali-khan-attention-must-be-paid-to-security-of-actors-/articleshow/117287201.cms"
+          },
+          {
+            "hl": "Sara Ali Khan",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ali-khan-ibrahim-ali-khan-arrive-at-hospital-as-saif-ali-khan-gets-stabbed-and-undergoes-surgery-at-lilavati-hospital-watch-video/articleshow/117288456.cms"
+          },
+          {
+            "hl": "Daya Nayak",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumbai-police-officer-daya-nayak-arrives-saif-ali-khans-house-for-investigation-after-the-actor-gets-attacked-dcp-dixit-gedam-reacts-watch-video/articleshow/117287993.cms"
+          },
+          {
+            "hl": "Ranbir Kapoor",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-soha-ali-khan-kunal-kemmu-reach-lilavati-hospital-to-see-saif-ali-khan-after-his-surgery-video/articleshow/117295472.cms"
+          },
+          {
+            "hl": "Animals",
+            "wu": "https://timesofindia.indiatimes.com/life-style/spotlight/web-stories/10-adorable-animals-known-for-their-graceful-hopping-skills/photostory/117167065.cms"
+          },
+          {
+            "hl": "Nagarhole National Park",
+            "wu": "https://timesofindia.indiatimes.com/travel/web-stories/10-iconic-species-to-see-in-nagarhole-national-park/photostory/117220107.cms"
+          },
+          {
+            "hl": "Saif Ali Khan Injured",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-injured-in-burglary-attempt-3-suspects-detained-taken-to-police-station/articleshow/117284173.cms"
+          },
+          {
+            "hl": "Baba Vanga",
+            "wu": "https://timesofindia.indiatimes.com/etimes/trending/baba-vangas-predictions-that-came-true-in-2024-from-economic-difficulties-to-climatic-crisis-now-what-to-expect-in-2025/articleshow/117203441.cms"
+          },
+          {
+            "hl": "Memory Sharp",
+            "wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/7-tips-to-keep-your-memory-sharp-at-any-age/photostory/117225428.cms"
+          },
+          {
+            "hl": "Archana Puran Singh",
+            "wu": "https://timesofindia.indiatimes.com/tv/news/hindi/from-parmeet-sethi-facing-major-loss-in-garment-business-to-archana-puran-singh-faking-an-employment-letter-to-stay-in-ywca-the-duo-recall-their-humble-beginnings-in-the-industry/photostory/117289185.cms"
+          },
+          {
+            "hl": "Bigg Boss 18",
+            "wu": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-18-eisha-singh-and-karan-veer-mehra-get-teary-eyed-reading-letters-from-their-mothers/articleshow/117249227.cms"
+          },
+          {
+            "hl": "Daaku Maharaaj Box Office Collection",
+            "wu": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/daaku-maharaaj-box-office-collections-day-3-nandamuri-balakrishnas-action-flick-crosses-rs-60-crores-worldwide/articleshow/117249571.cms"
+          },
+          {
+            "hl": "Vitamins",
+            "wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/8-vitamins-and-minerals-that-are-lost-in-cooking-and-how-to-retain-them/photostory/117174270.cms"
+          },
+          {
+            "hl": "Shark Tank India 4",
+            "wu": "https://timesofindia.indiatimes.com/tv/news/hindi/shark-tank-india-4-pitchers-aditi-and-ashish-jawa-slam-vineeta-singh-and-other-sharks-for-calling-them-fake-former-says-they-kept-raising-questions-about-our-authenticity/articleshow/117184988.cms"
+          },
+          {
+            "hl": "NYT Connections",
+            "wu": "https://timesofindia.indiatimes.com/technology/gaming/nyt-connections-hints-and-answers-for-today-january-12-puzzle-581-solved/articleshow/117165175.cms"
+          },
+          {
+            "hl": "Amazon Sale",
+            "wu": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-great-republic-day-sale-starts-on-january-13-big-discounts-and-early-access-for-prime-members/articleshow/117171575.cms"
+          },
+          {
+            "hl": "Satya Nadella",
+            "wu": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-announces-data-center-and-ai-partnership-with-indian-companies/articleshow/117053357.cms"
+          }
+        ]
+      },
+      {
+        "label": "Living and entertainment",
+        "items": [
+          {
+            "wu": "https://timesofindia.indiatimes.com/etimes",
+            "hl": "ETimes"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/travel/destinations",
+            "hl": "Travel Destinations"
+          },
+          {
+            "wu": "https://cricbuzz.com",
+            "hl": "Cricbuzz.com"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/tv/hindi",
+            "hl": "TV"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/life-style",
+            "hl": "Lifestyle"
+          },
+          {
+            "wu": "https://subscribe.timesgroup.com/subscription",
+            "hl": "Newspaper Subscription"
+          },
+          {
+            "wu": "https://timesofindia.indiatimes.com/life-style/food-news",
+            "hl": "Food News"
+          },
+          {
+            "wu": "https://www.timesprime.com?utm_source=TOI_Sites&amp;utm_medium=et&amp;utm_campaign=footer",
+            "hl": "Times Prime"
+          },
+          {
+            "wu": "https://www.whatshot.in/",
+            "hl": "Whats Hot"
+          }
+        ]
+      },
+      {
+        "label": "Services",
+        "items": [
+          {
+            "wu": "https://www.coupondunia.in/",
+            "hl": "CouponDunia"
+          },
+          {
+            "wu": "https://www.techgig.com",
+            "hl": "TechGig"
+          },
+          {
+            "wu": "https://www.timesjobs.com/",
+            "hl": "TimesJobs"
+          },
+          {
+            "wu": "https://play.google.com/store/apps/details?id=in.til.popkorn",
+            "hl": "Bollywood News"
+          },
+          {
+            "wu": "https://www.timesmobile.in/",
+            "hl": "Times Mobile"
+          },
+          {
+            "wu": "https://gadgetsnow.indiatimes.com/",
+            "hl": "Gadgets"
+          },
+          {
+            "wu": "https://timesinternet.in/careers",
+            "hl": "Work with Us"
+          },
+          {
+            "wu": "https://www.colombiaonline.com/",
+            "hl": "Colombia"
+          }
+        ]
+      }
+    ],
+    "disclaimer": "Copyright © 2025 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+    "siteLinks": {
+      "items": [
+        {
+          "wu": "https://www.timesinternet.in",
+          "hl": "About us"
+        },
+        {
+          "wu": "https://ads.colombiaonline.com/expresso/selfservice/loginSelfService.htm",
+          "hl": "Create Your Own Ad"
+        },
+        {
+          "wu": "https://www.indiatimes.com/termsandcondition",
+          "hl": "Terms of Use and Grievance Redressal Policy "
+        },
+        {
+          "wu": "https://timesofindia.indiatimes.com/privacy-policy/cookiepolicy/86934312.cms",
+          "hl": "Privacy policy",
+          "eulink": "https://timesofindia.indiatimes.com/privacy-policy/cookiepolicy/80245266.cms"
+        },
+        {
+          "wu": "https://timesinternet.in/advertise/marketing",
+          "hl": "Advertise with us"
+        },
+        {
+          "wu": "https://timesofindia.indiatimes.com/rss.cms",
+          "hl": "RSS"
+        },
+        {
+          "wu": "/newsletterhome.cms",
+          "hl": "Newsletter",
+          "cls": "eu-hidden"
+        },
+        {
+          "wu": "https://timesofindia.indiatimes.com/feedback.cms",
+          "hl": "Feedback",
+          "cls": "eu-hidden"
+        },
+        {
+          "wu": "https://epaper.indiatimes.com/timesepaper/publication-the-times-of-india,city-delhi.cms?utm_source=TOI&utm_medium=footer&utm_campaign=TOIePaper_Promotions",
+          "hl": "ePaper"
+        },
+        {
+          "wu": "/sitemap.cms",
+          "hl": "Sitemap"
+        },
+        {
+          "wu": "/archive.cms",
+          "hl": "Archives"
+        }
+      ]
+    }
+  },
+  "common": {
+    "ROS": {
+      "adCode": "/7176/TOI/TOI_Business/TOI_Business_Home/TOI_BUS_AL_ATF_728",
+      "adType": "dfp",
+      "tn": "ad",
+      "size": [
+        [970, 250],
+        [728, 90],
+        [980, 200]
+      ],
+      "divId": "57b33fce-4c48-4a52-97cf-b828b00775de"
+    },
+    "gutterAd": {
+      "adName": "gutter",
+      "fallback": {
+        "adCode": "/7176/TOI/TOI_ROS/TOI_ROS_Sticky_160",
+        "size": [
+          [125, 600],
+          [160, 600],
+          [120, 600]
+        ],
+        "divId": "div-gpt-ad-1578652667303",
+        "path": "/"
+      },
+      "tn": "ad",
+      "adType": "dfp",
+      "adCode": "/7176/TOI/TOI_Business/TOI_Business_Home/TOI_BUS_AL_Innov1",
+      "divId": "21b7540b-0162-47a0-9d02-b0938c56f2aa"
+    },
+    "geoAd": {
+      "tn": "ad",
+      "slotId": "e06d376d-fe7a-4682-a66e-21b1bc723bba",
+      "adType": "dfp",
+      "adName": "geoAd",
+      "adCode": "/7176/TOI_Impression_Trackers/TOI_Test_Geo_1x1",
+      "size": [[1, 1]],
+      "path": "/7176/TOI_Impression_Trackers/TOI_Test_Geo_1x1",
+      "pos": "0"
+    },
+    "geoState": {
+      "tn": "ad",
+      "slotId": "a6774179-28d1-46fa-aa1c-a79f10737a90",
+      "adType": "dfp",
+      "adName": "geoState",
+      "adCode": "/7176/TOI_Impression_Trackers/TOI_Test_Web_Geo_1x1",
+      "size": [[1, 1]],
+      "path": "/7176/TOI_Impression_Trackers/TOI_Test_Web_Geo_1x1",
+      "pos": "0"
+    },
+    "topSearches": {
+      "tn": "topSearches",
+      "id": "top_searches",
+      "name": "Trending",
+      "label": "Trending",
+      "items": [
+        {
+          "hl": "Hindenburg Research Shut Down",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/adani-group-stocks-rally-up-to-9-after-hindenburg-research-announces-shut-down/articleshow/117286421.cms",
+          "pillTitle": ""
+        },
+        {
+          "hl": "Adani Group",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/why-did-hindenburg-research-short-seller-behind-adani-group-150-bn-rout-shut-down-read-full-text-of-founder-nate-andersons-personal-note/articleshow/117287676.cms",
+          "doNotChangeURL": "1",
+          "pillTitle": ""
+        },
+        {
+          "hl": "Adani Group CFO",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/kitne-ghazi-aaye-kitne-ghazi-adani-group-cfo-shares-cryptic-post-after-hindenburg-research-announces-shutdown/articleshow/117291489.cms",
+          "pillTitle": ""
+        },
+        {
+          "hl": "January Bank Holidays",
+          "wu": "https://timesofindia.indiatimes.com/business/bank-holidays/january",
+          "pillTitle": ""
+        },
+        {
+          "hl": "Bank Holidays",
+          "wu": "https://timesofindia.indiatimes.com/business/bank-holidays",
+          "pillTitle": ""
+        },
+        {
+          "hl": "Stock Market Today",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-january-16-2025-dalal-street-indian-equities-global-markets/articleshow/117282525.cms",
+          "pillTitle": ""
+        },
+        {
+          "hl": "Budget 2025",
+          "wu": "https://timesofindia.indiatimes.com/business/india-business/budget-2025-raise-income-tax-exempt-limit-to-rs-10-lakh-rss-unions-tell-fm-sitharaman/articleshow/117014377.cms",
+          "pillTitle": ""
+        }
+      ]
+    }
+  },
+  "fgt": "Thu Jan 16 2025 16:30:22 GMT+0530 (India Standard Time)"
+}
